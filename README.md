@@ -35,7 +35,6 @@ This project analyzes Boston’s restaurant landscape using Yelp review data to 
 * Rating vs Review Count: Mild positive correlation (r = 0.21) — highly reviewed restaurants tend to receive slightly higher ratings
 
 #### Cuisine & Neighborhood Trends
-
 * Pizza, seafood, and American dominate the most popular cuisines.
 * Brookline and Allston stand out as dining hotspots, with strong review density relative to restaurant count.
 * Afghan and African cuisines receive some of the highest ratings but remain underrepresented, highlighting growth opportunities.
